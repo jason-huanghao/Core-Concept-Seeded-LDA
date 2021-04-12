@@ -1,4 +1,4 @@
-# Seed-Knowledge-based-LDA-towards-Ontology-Learning
+# Core-Concept-Seeded LDA for Ontology Learning
 Seed Knowledge based LDA towards Ontology Learning as a Term Clustering Method
 
 The experiment results on Parameter tuning of all LDAs, K-means, and SMBM are posted in supplementary github.pdf.
