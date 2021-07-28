@@ -1,0 +1,5 @@
+musicians,guitarist,band,songwriter,singer,artists,orchestra,lyricist,pianist,composers,organist,cellist,drummer
+albums,band_release,full-length_albums,self-titled_album,album_release,studio_albums,solo_albums,self-titled_debut_album,double_album,debut_release,mixtape,album_title,cover_versions,title_track
+genres,chant,ballad,carol,electro,folk_music,electronic_music,carnatic_music,classical_music,popular_music,soul_music,ballad,black_metal,rock,folk_song,pop_songs,hip_hop,heavy_metal,folk_music,thrash_metal
+instruments,instrumenta,musical_instrument,percussion_instrument,acoustic_instruments,instrumentals,traditional_instrument,stringed_instrument,electronic_instruments,brass_instruments,live_instruments,string_instruments,folk_instrument
+performances,perform,performs,live_performance,music_festival,tv_shows,playing_shows,blues_festival,performing,music_awards,ensemble,scene
