@@ -38,7 +38,6 @@ docs = [["1", "2", "1", "2", "1"], ["1", "2", "1", "3"], ["2", "1", "1"], ["2", 
 lda_model.fit(X=docs)
 lda_model.phi()
 lda_model.theta()
-lda_model.word_topic_matrix()
 ```
 
 For Zlabel 
@@ -53,7 +52,6 @@ TIDS = [[0], [1], [2]]      # the first group of seed set is used to guide topic
 lda_model.fit(X=docs, SS=SS, TIDS=TIDS, ditionary=dictionary, Docs=dig_docs)
 lda_model.phi()
 lda_model.theta()
-lda_model.word_topic_matrix()
 ```
 
 For Seeded LDA
@@ -68,7 +66,6 @@ TIDS = [[0], [1], [2]]      # the first group of seed set is used to guide topic
 lda_model.fit(X=docs, SS=SS, TIDS=TIDS, ditionary=dictionary, Docs=dig_docs)
 lda_model.phi()
 lda_model.theta()
-lda_model.word_topic_matrix()
 ```
 
 
