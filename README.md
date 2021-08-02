@@ -1,6 +1,9 @@
 # Core-Concept-Seeded LDA for Ontology Learning
 Core-Concept-Seeded LDA as a Term Clustering Method based on Seeded LDA for core concept formation
 
+![](https://cdn.jsdelivr.net/gh/jason-huanghao/PicGoBed/imgs/20210802115528.png)
+![](https://cdn.jsdelivr.net/gh/jason-huanghao/PicGoBed/imgs/20210802115616.png)
+
 # Core Concept Seeded LDA Codes
 We share the code of LDA, Zlabels, and Seeded LDA. For Seeded LDA M1 and Seeded LDA M2, one can obtain them by making a little change from Seeded LDA.
 
